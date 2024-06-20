@@ -1,0 +1,9 @@
+/* src/components/ProductList.css */
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100%, 1fr));
+  gap: 16px;
+  padding: 16px;
+  max-width: 1300px;
+  margin: auto;
+}
