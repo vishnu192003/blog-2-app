@@ -25,7 +25,11 @@ function App() {
       ) : (
         <ProductList products={products} onProductClick={handleProductClick} />
       )}
+
+      
     </div>
+
+    
   );
 }
 

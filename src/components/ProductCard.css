@@ -3,7 +3,7 @@
   border: 1px solid #ddd;
   border-radius: 8px;
   overflow: hidden;
-  background-color: #f9f9f9;
+  background-color: #a3a3a3;
   transition: transform 0.3s ease;
   cursor: pointer;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
@@ -16,20 +16,20 @@
 }
 
 .product-card img {
-  width: 20%;
-  height: 250px;
-  border-radius: 50rem;
+  width: 90px;
+  height: 90px;
+  border-radius: 5rem;
 }
 
 .product-card h2 {
   font-size: 1.2rem;
   margin: 0.5rem 0;
   padding: 0 1rem;
-  color: #333;
+  color: #000000;
 }
 
 .product-card p {
   font-size: 1rem;
-  color: #777;
+  color: #000000;
   padding: 0 1rem 1rem;
 }
